@@ -14,7 +14,7 @@ Welcome to the Vehicle Rental System in Python! This project simulates a vehicle
 1. **Clone the repository to your local machine.**
 
     ```bash
-    git clone https://github.com/your-username/vehicle-rental.git
+    git clone https://github.com/tahaozturk/vehicle-rental.git
     ```
 
 2. **Navigate to the project directory.**
